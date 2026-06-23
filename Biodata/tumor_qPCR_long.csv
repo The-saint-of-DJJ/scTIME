@@ -1,0 +1,241 @@
+﻿assay,cell_line,condition,condition_name,model_interpretation,biological_replicate,gene,feature_class,housekeeping_gene,housekeeping_Ct,target_Ct,delta_Ct,delta_delta_Ct,relative_expression_2ddct,log2_relative_expression
+tumor_qPCR,A549,G1,Control,baseline,BioRep1,CXCL10,responder,GAPDH,18.481,29.959,11.478,-0.254,1.193,0.255
+tumor_qPCR,A549,G1,Control,baseline,BioRep1,CXCL9,responder,GAPDH,18.481,30.274,11.793,-0.153,1.112,0.153
+tumor_qPCR,A549,G1,Control,baseline,BioRep1,CXCL11,responder,GAPDH,18.481,30.653,12.172,-0.137,1.1,0.138
+tumor_qPCR,A549,G1,Control,baseline,BioRep1,HLA-A,responder,GAPDH,18.481,24.77,6.289,0.067,0.954,-0.068
+tumor_qPCR,A549,G1,Control,baseline,BioRep1,B2M,responder,GAPDH,18.481,23.374,4.893,-0.537,1.451,0.537
+tumor_qPCR,A549,G1,Control,baseline,BioRep1,STAT1,responder,GAPDH,18.481,26.425,7.944,0.161,0.894,-0.162
+tumor_qPCR,A549,G1,Control,baseline,BioRep1,IFIT1,responder,GAPDH,18.481,28.159,9.678,0.037,0.975,-0.037
+tumor_qPCR,A549,G1,Control,baseline,BioRep1,CD274,checkpoint,GAPDH,18.481,29.046,10.565,-0.106,1.076,0.106
+tumor_qPCR,A549,G1,Control,baseline,BioRep1,SPP1,exclusion,GAPDH,18.481,27.225,8.744,-0.178,1.131,0.178
+tumor_qPCR,A549,G1,Control,baseline,BioRep1,TGFB1,exclusion,GAPDH,18.481,27.737,9.256,-0.071,1.051,0.072
+tumor_qPCR,A549,G1,Control,baseline,BioRep1,CA9,exclusion,GAPDH,18.481,28.813,10.332,0.386,0.766,-0.385
+tumor_qPCR,A549,G1,Control,baseline,BioRep1,VEGFA,exclusion,GAPDH,18.481,25.866,7.385,-0.306,1.236,0.306
+tumor_qPCR,A549,G1,Control,baseline,BioRep2,CXCL10,responder,GAPDH,18.43,30.444,12.014,0.282,0.822,-0.283
+tumor_qPCR,A549,G1,Control,baseline,BioRep2,CXCL9,responder,GAPDH,18.43,30.417,11.987,0.041,0.972,-0.041
+tumor_qPCR,A549,G1,Control,baseline,BioRep2,CXCL11,responder,GAPDH,18.43,30.704,12.274,-0.035,1.025,0.036
+tumor_qPCR,A549,G1,Control,baseline,BioRep2,HLA-A,responder,GAPDH,18.43,24.279,5.849,-0.373,1.295,0.373
+tumor_qPCR,A549,G1,Control,baseline,BioRep2,B2M,responder,GAPDH,18.43,23.753,5.323,-0.107,1.077,0.107
+tumor_qPCR,A549,G1,Control,baseline,BioRep2,STAT1,responder,GAPDH,18.43,26.212,7.782,-0.001,1.001,0.001
+tumor_qPCR,A549,G1,Control,baseline,BioRep2,IFIT1,responder,GAPDH,18.43,28.167,9.737,0.096,0.936,-0.095
+tumor_qPCR,A549,G1,Control,baseline,BioRep2,CD274,checkpoint,GAPDH,18.43,28.857,10.427,-0.244,1.184,0.244
+tumor_qPCR,A549,G1,Control,baseline,BioRep2,SPP1,exclusion,GAPDH,18.43,27.091,8.661,-0.261,1.198,0.261
+tumor_qPCR,A549,G1,Control,baseline,BioRep2,TGFB1,exclusion,GAPDH,18.43,27.634,9.204,-0.123,1.089,0.123
+tumor_qPCR,A549,G1,Control,baseline,BioRep2,CA9,exclusion,GAPDH,18.43,28.139,9.709,-0.238,1.179,0.238
+tumor_qPCR,A549,G1,Control,baseline,BioRep2,VEGFA,exclusion,GAPDH,18.43,26.358,7.928,0.237,0.849,-0.236
+tumor_qPCR,A549,G1,Control,baseline,BioRep3,CXCL10,responder,GAPDH,18.503,30.009,11.506,-0.226,1.17,0.227
+tumor_qPCR,A549,G1,Control,baseline,BioRep3,CXCL9,responder,GAPDH,18.503,30.266,11.763,-0.183,1.135,0.183
+tumor_qPCR,A549,G1,Control,baseline,BioRep3,CXCL11,responder,GAPDH,18.503,30.708,12.205,-0.104,1.075,0.104
+tumor_qPCR,A549,G1,Control,baseline,BioRep3,HLA-A,responder,GAPDH,18.503,24.693,6.19,-0.032,1.022,0.031
+tumor_qPCR,A549,G1,Control,baseline,BioRep3,B2M,responder,GAPDH,18.503,24.151,5.648,0.218,0.86,-0.218
+tumor_qPCR,A549,G1,Control,baseline,BioRep3,STAT1,responder,GAPDH,18.503,26.269,7.766,-0.017,1.012,0.017
+tumor_qPCR,A549,G1,Control,baseline,BioRep3,IFIT1,responder,GAPDH,18.503,27.839,9.336,-0.305,1.235,0.305
+tumor_qPCR,A549,G1,Control,baseline,BioRep3,CD274,checkpoint,GAPDH,18.503,29.301,10.798,0.127,0.916,-0.127
+tumor_qPCR,A549,G1,Control,baseline,BioRep3,SPP1,exclusion,GAPDH,18.503,27.662,9.159,0.237,0.849,-0.236
+tumor_qPCR,A549,G1,Control,baseline,BioRep3,TGFB1,exclusion,GAPDH,18.503,27.904,9.401,0.074,0.95,-0.074
+tumor_qPCR,A549,G1,Control,baseline,BioRep3,CA9,exclusion,GAPDH,18.503,28.398,9.895,-0.052,1.036,0.051
+tumor_qPCR,A549,G1,Control,baseline,BioRep3,VEGFA,exclusion,GAPDH,18.503,25.97,7.467,-0.224,1.168,0.224
+tumor_qPCR,A549,G1,Control,baseline,BioRep4,CXCL10,responder,GAPDH,18.483,30.413,11.93,0.198,0.872,-0.198
+tumor_qPCR,A549,G1,Control,baseline,BioRep4,CXCL9,responder,GAPDH,18.483,30.725,12.242,0.296,0.815,-0.295
+tumor_qPCR,A549,G1,Control,baseline,BioRep4,CXCL11,responder,GAPDH,18.483,31.068,12.585,0.276,0.826,-0.276
+tumor_qPCR,A549,G1,Control,baseline,BioRep4,HLA-A,responder,GAPDH,18.483,25.042,6.559,0.337,0.792,-0.336
+tumor_qPCR,A549,G1,Control,baseline,BioRep4,B2M,responder,GAPDH,18.483,24.34,5.857,0.427,0.744,-0.427
+tumor_qPCR,A549,G1,Control,baseline,BioRep4,STAT1,responder,GAPDH,18.483,26.123,7.64,-0.143,1.104,0.143
+tumor_qPCR,A549,G1,Control,baseline,BioRep4,IFIT1,responder,GAPDH,18.483,28.296,9.813,0.172,0.888,-0.171
+tumor_qPCR,A549,G1,Control,baseline,BioRep4,CD274,checkpoint,GAPDH,18.483,29.377,10.894,0.223,0.857,-0.223
+tumor_qPCR,A549,G1,Control,baseline,BioRep4,SPP1,exclusion,GAPDH,18.483,27.607,9.124,0.202,0.869,-0.203
+tumor_qPCR,A549,G1,Control,baseline,BioRep4,TGFB1,exclusion,GAPDH,18.483,27.931,9.448,0.121,0.92,-0.12
+tumor_qPCR,A549,G1,Control,baseline,BioRep4,CA9,exclusion,GAPDH,18.483,28.333,9.85,-0.097,1.069,0.096
+tumor_qPCR,A549,G1,Control,baseline,BioRep4,VEGFA,exclusion,GAPDH,18.483,26.468,7.985,0.294,0.816,-0.293
+tumor_qPCR,A549,G2,IFN activation,responder-like / scTIME-AI-high,BioRep1,CXCL10,responder,GAPDH,18.439,25.919,7.48,-4.252,19.054,4.252
+tumor_qPCR,A549,G2,IFN activation,responder-like / scTIME-AI-high,BioRep1,CXCL9,responder,GAPDH,18.439,27.588,9.149,-2.797,6.951,2.797
+tumor_qPCR,A549,G2,IFN activation,responder-like / scTIME-AI-high,BioRep1,CXCL11,responder,GAPDH,18.439,27.601,9.162,-3.147,8.858,3.147
+tumor_qPCR,A549,G2,IFN activation,responder-like / scTIME-AI-high,BioRep1,HLA-A,responder,GAPDH,18.439,22.924,4.485,-1.737,3.333,1.737
+tumor_qPCR,A549,G2,IFN activation,responder-like / scTIME-AI-high,BioRep1,B2M,responder,GAPDH,18.439,22.658,4.219,-1.211,2.315,1.211
+tumor_qPCR,A549,G2,IFN activation,responder-like / scTIME-AI-high,BioRep1,STAT1,responder,GAPDH,18.439,24.748,6.309,-1.474,2.778,1.474
+tumor_qPCR,A549,G2,IFN activation,responder-like / scTIME-AI-high,BioRep1,IFIT1,responder,GAPDH,18.439,25.344,6.905,-2.736,6.662,2.736
+tumor_qPCR,A549,G2,IFN activation,responder-like / scTIME-AI-high,BioRep1,CD274,checkpoint,GAPDH,18.439,27.094,8.655,-2.016,4.045,2.016
+tumor_qPCR,A549,G2,IFN activation,responder-like / scTIME-AI-high,BioRep1,SPP1,exclusion,GAPDH,18.439,27.583,9.144,0.222,0.857,-0.223
+tumor_qPCR,A549,G2,IFN activation,responder-like / scTIME-AI-high,BioRep1,TGFB1,exclusion,GAPDH,18.439,27.445,9.006,-0.321,1.249,0.321
+tumor_qPCR,A549,G2,IFN activation,responder-like / scTIME-AI-high,BioRep1,CA9,exclusion,GAPDH,18.439,29.033,10.594,0.647,0.638,-0.648
+tumor_qPCR,A549,G2,IFN activation,responder-like / scTIME-AI-high,BioRep1,VEGFA,exclusion,GAPDH,18.439,26.657,8.218,0.527,0.694,-0.527
+tumor_qPCR,A549,G2,IFN activation,responder-like / scTIME-AI-high,BioRep2,CXCL10,responder,GAPDH,18.61,25.958,7.348,-4.384,20.879,4.384
+tumor_qPCR,A549,G2,IFN activation,responder-like / scTIME-AI-high,BioRep2,CXCL9,responder,GAPDH,18.61,27.076,8.466,-3.48,11.16,3.48
+tumor_qPCR,A549,G2,IFN activation,responder-like / scTIME-AI-high,BioRep2,CXCL11,responder,GAPDH,18.61,27.31,8.7,-3.609,12.202,3.609
+tumor_qPCR,A549,G2,IFN activation,responder-like / scTIME-AI-high,BioRep2,HLA-A,responder,GAPDH,18.61,22.231,3.621,-2.601,6.066,2.601
+tumor_qPCR,A549,G2,IFN activation,responder-like / scTIME-AI-high,BioRep2,B2M,responder,GAPDH,18.61,23.42,4.81,-0.62,1.537,0.62
+tumor_qPCR,A549,G2,IFN activation,responder-like / scTIME-AI-high,BioRep2,STAT1,responder,GAPDH,18.61,24.169,5.559,-2.224,4.672,2.224
+tumor_qPCR,A549,G2,IFN activation,responder-like / scTIME-AI-high,BioRep2,IFIT1,responder,GAPDH,18.61,25.461,6.851,-2.79,6.916,2.79
+tumor_qPCR,A549,G2,IFN activation,responder-like / scTIME-AI-high,BioRep2,CD274,checkpoint,GAPDH,18.61,26.769,8.159,-2.512,5.704,2.512
+tumor_qPCR,A549,G2,IFN activation,responder-like / scTIME-AI-high,BioRep2,SPP1,exclusion,GAPDH,18.61,27.554,8.944,0.022,0.985,-0.022
+tumor_qPCR,A549,G2,IFN activation,responder-like / scTIME-AI-high,BioRep2,TGFB1,exclusion,GAPDH,18.61,27.824,9.214,-0.113,1.082,0.114
+tumor_qPCR,A549,G2,IFN activation,responder-like / scTIME-AI-high,BioRep2,CA9,exclusion,GAPDH,18.61,28.483,9.873,-0.074,1.052,0.073
+tumor_qPCR,A549,G2,IFN activation,responder-like / scTIME-AI-high,BioRep2,VEGFA,exclusion,GAPDH,18.61,26.466,7.856,0.165,0.892,-0.165
+tumor_qPCR,A549,G2,IFN activation,responder-like / scTIME-AI-high,BioRep3,CXCL10,responder,GAPDH,18.453,25.384,6.931,-4.801,27.877,4.801
+tumor_qPCR,A549,G2,IFN activation,responder-like / scTIME-AI-high,BioRep3,CXCL9,responder,GAPDH,18.453,26.638,8.185,-3.761,13.56,3.761
+tumor_qPCR,A549,G2,IFN activation,responder-like / scTIME-AI-high,BioRep3,CXCL11,responder,GAPDH,18.453,27.743,9.29,-3.019,8.106,3.019
+tumor_qPCR,A549,G2,IFN activation,responder-like / scTIME-AI-high,BioRep3,HLA-A,responder,GAPDH,18.453,22.715,4.262,-1.96,3.89,1.96
+tumor_qPCR,A549,G2,IFN activation,responder-like / scTIME-AI-high,BioRep3,B2M,responder,GAPDH,18.453,22.637,4.184,-1.246,2.372,1.246
+tumor_qPCR,A549,G2,IFN activation,responder-like / scTIME-AI-high,BioRep3,STAT1,responder,GAPDH,18.453,23.774,5.321,-2.462,5.51,2.462
+tumor_qPCR,A549,G2,IFN activation,responder-like / scTIME-AI-high,BioRep3,IFIT1,responder,GAPDH,18.453,24.971,6.518,-3.123,8.712,3.123
+tumor_qPCR,A549,G2,IFN activation,responder-like / scTIME-AI-high,BioRep3,CD274,checkpoint,GAPDH,18.453,26.396,7.943,-2.728,6.625,2.728
+tumor_qPCR,A549,G2,IFN activation,responder-like / scTIME-AI-high,BioRep3,SPP1,exclusion,GAPDH,18.453,27.494,9.041,0.119,0.921,-0.119
+tumor_qPCR,A549,G2,IFN activation,responder-like / scTIME-AI-high,BioRep3,TGFB1,exclusion,GAPDH,18.453,26.936,8.483,-0.844,1.795,0.844
+tumor_qPCR,A549,G2,IFN activation,responder-like / scTIME-AI-high,BioRep3,CA9,exclusion,GAPDH,18.453,28.284,9.831,-0.116,1.083,0.115
+tumor_qPCR,A549,G2,IFN activation,responder-like / scTIME-AI-high,BioRep3,VEGFA,exclusion,GAPDH,18.453,26.013,7.56,-0.131,1.095,0.131
+tumor_qPCR,A549,G2,IFN activation,responder-like / scTIME-AI-high,BioRep4,CXCL10,responder,GAPDH,18.538,26.528,7.99,-3.742,13.38,3.742
+tumor_qPCR,A549,G2,IFN activation,responder-like / scTIME-AI-high,BioRep4,CXCL9,responder,GAPDH,18.538,27.31,8.772,-3.174,9.027,3.174
+tumor_qPCR,A549,G2,IFN activation,responder-like / scTIME-AI-high,BioRep4,CXCL11,responder,GAPDH,18.538,27.368,8.83,-3.479,11.15,3.479
+tumor_qPCR,A549,G2,IFN activation,responder-like / scTIME-AI-high,BioRep4,HLA-A,responder,GAPDH,18.538,23.672,5.134,-1.088,2.125,1.087
+tumor_qPCR,A549,G2,IFN activation,responder-like / scTIME-AI-high,BioRep4,B2M,responder,GAPDH,18.538,23.691,5.153,-0.277,1.212,0.277
+tumor_qPCR,A549,G2,IFN activation,responder-like / scTIME-AI-high,BioRep4,STAT1,responder,GAPDH,18.538,24.426,5.888,-1.895,3.719,1.895
+tumor_qPCR,A549,G2,IFN activation,responder-like / scTIME-AI-high,BioRep4,IFIT1,responder,GAPDH,18.538,25.84,7.302,-2.339,5.06,2.339
+tumor_qPCR,A549,G2,IFN activation,responder-like / scTIME-AI-high,BioRep4,CD274,checkpoint,GAPDH,18.538,26.542,8.004,-2.667,6.351,2.667
+tumor_qPCR,A549,G2,IFN activation,responder-like / scTIME-AI-high,BioRep4,SPP1,exclusion,GAPDH,18.538,27.582,9.044,0.122,0.919,-0.122
+tumor_qPCR,A549,G2,IFN activation,responder-like / scTIME-AI-high,BioRep4,TGFB1,exclusion,GAPDH,18.538,28.131,9.593,0.266,0.832,-0.265
+tumor_qPCR,A549,G2,IFN activation,responder-like / scTIME-AI-high,BioRep4,CA9,exclusion,GAPDH,18.538,28.534,9.996,0.05,0.966,-0.05
+tumor_qPCR,A549,G2,IFN activation,responder-like / scTIME-AI-high,BioRep4,VEGFA,exclusion,GAPDH,18.538,27.127,8.589,0.898,0.537,-0.897
+tumor_qPCR,A549,G3,IFN + CXCL10 blockade,loss of responder axis,BioRep1,CXCL10,responder,GAPDH,18.401,28.646,10.245,-1.487,2.803,1.487
+tumor_qPCR,A549,G3,IFN + CXCL10 blockade,loss of responder axis,BioRep1,CXCL9,responder,GAPDH,18.401,27.339,8.938,-3.008,8.046,3.008
+tumor_qPCR,A549,G3,IFN + CXCL10 blockade,loss of responder axis,BioRep1,CXCL11,responder,GAPDH,18.401,28.402,10.001,-2.308,4.952,2.308
+tumor_qPCR,A549,G3,IFN + CXCL10 blockade,loss of responder axis,BioRep1,HLA-A,responder,GAPDH,18.401,23.615,5.214,-1.008,2.011,1.008
+tumor_qPCR,A549,G3,IFN + CXCL10 blockade,loss of responder axis,BioRep1,B2M,responder,GAPDH,18.401,22.879,4.478,-0.952,1.935,0.952
+tumor_qPCR,A549,G3,IFN + CXCL10 blockade,loss of responder axis,BioRep1,STAT1,responder,GAPDH,18.401,24.464,6.063,-1.72,3.294,1.72
+tumor_qPCR,A549,G3,IFN + CXCL10 blockade,loss of responder axis,BioRep1,IFIT1,responder,GAPDH,18.401,25.829,7.428,-2.213,4.636,2.213
+tumor_qPCR,A549,G3,IFN + CXCL10 blockade,loss of responder axis,BioRep1,CD274,checkpoint,GAPDH,18.401,27.084,8.683,-1.988,3.967,1.988
+tumor_qPCR,A549,G3,IFN + CXCL10 blockade,loss of responder axis,BioRep1,SPP1,exclusion,GAPDH,18.401,27.454,9.053,0.131,0.913,-0.131
+tumor_qPCR,A549,G3,IFN + CXCL10 blockade,loss of responder axis,BioRep1,TGFB1,exclusion,GAPDH,18.401,27.687,9.286,-0.041,1.029,0.041
+tumor_qPCR,A549,G3,IFN + CXCL10 blockade,loss of responder axis,BioRep1,CA9,exclusion,GAPDH,18.401,28.679,10.278,0.332,0.795,-0.331
+tumor_qPCR,A549,G3,IFN + CXCL10 blockade,loss of responder axis,BioRep1,VEGFA,exclusion,GAPDH,18.401,26.163,7.762,0.071,0.952,-0.071
+tumor_qPCR,A549,G3,IFN + CXCL10 blockade,loss of responder axis,BioRep2,CXCL10,responder,GAPDH,18.679,28.149,9.47,-2.262,4.797,2.262
+tumor_qPCR,A549,G3,IFN + CXCL10 blockade,loss of responder axis,BioRep2,CXCL9,responder,GAPDH,18.679,27.187,8.508,-3.438,10.84,3.438
+tumor_qPCR,A549,G3,IFN + CXCL10 blockade,loss of responder axis,BioRep2,CXCL11,responder,GAPDH,18.679,27.443,8.764,-3.545,11.672,3.545
+tumor_qPCR,A549,G3,IFN + CXCL10 blockade,loss of responder axis,BioRep2,HLA-A,responder,GAPDH,18.679,23.372,4.693,-1.529,2.885,1.529
+tumor_qPCR,A549,G3,IFN + CXCL10 blockade,loss of responder axis,BioRep2,B2M,responder,GAPDH,18.679,23.052,4.373,-1.057,2.081,1.057
+tumor_qPCR,A549,G3,IFN + CXCL10 blockade,loss of responder axis,BioRep2,STAT1,responder,GAPDH,18.679,24.732,6.053,-1.73,3.317,1.73
+tumor_qPCR,A549,G3,IFN + CXCL10 blockade,loss of responder axis,BioRep2,IFIT1,responder,GAPDH,18.679,25.958,7.279,-2.362,5.141,2.362
+tumor_qPCR,A549,G3,IFN + CXCL10 blockade,loss of responder axis,BioRep2,CD274,checkpoint,GAPDH,18.679,27.283,8.604,-2.067,4.19,2.067
+tumor_qPCR,A549,G3,IFN + CXCL10 blockade,loss of responder axis,BioRep2,SPP1,exclusion,GAPDH,18.679,27.261,8.582,-0.34,1.266,0.34
+tumor_qPCR,A549,G3,IFN + CXCL10 blockade,loss of responder axis,BioRep2,TGFB1,exclusion,GAPDH,18.679,27.449,8.77,-0.557,1.471,0.557
+tumor_qPCR,A549,G3,IFN + CXCL10 blockade,loss of responder axis,BioRep2,CA9,exclusion,GAPDH,18.679,27.926,9.247,-0.7,1.624,0.7
+tumor_qPCR,A549,G3,IFN + CXCL10 blockade,loss of responder axis,BioRep2,VEGFA,exclusion,GAPDH,18.679,26.724,8.045,0.354,0.783,-0.353
+tumor_qPCR,A549,G3,IFN + CXCL10 blockade,loss of responder axis,BioRep3,CXCL10,responder,GAPDH,18.31,27.263,8.953,-2.779,6.864,2.779
+tumor_qPCR,A549,G3,IFN + CXCL10 blockade,loss of responder axis,BioRep3,CXCL9,responder,GAPDH,18.31,26.717,8.407,-3.539,11.626,3.539
+tumor_qPCR,A549,G3,IFN + CXCL10 blockade,loss of responder axis,BioRep3,CXCL11,responder,GAPDH,18.31,27.229,8.919,-3.39,10.483,3.39
+tumor_qPCR,A549,G3,IFN + CXCL10 blockade,loss of responder axis,BioRep3,HLA-A,responder,GAPDH,18.31,23.116,4.806,-1.416,2.668,1.416
+tumor_qPCR,A549,G3,IFN + CXCL10 blockade,loss of responder axis,BioRep3,B2M,responder,GAPDH,18.31,22.611,4.301,-1.129,2.187,1.129
+tumor_qPCR,A549,G3,IFN + CXCL10 blockade,loss of responder axis,BioRep3,STAT1,responder,GAPDH,18.31,24.457,6.147,-1.636,3.108,1.636
+tumor_qPCR,A549,G3,IFN + CXCL10 blockade,loss of responder axis,BioRep3,IFIT1,responder,GAPDH,18.31,24.836,6.526,-3.115,8.664,3.115
+tumor_qPCR,A549,G3,IFN + CXCL10 blockade,loss of responder axis,BioRep3,CD274,checkpoint,GAPDH,18.31,26.72,8.41,-2.261,4.793,2.261
+tumor_qPCR,A549,G3,IFN + CXCL10 blockade,loss of responder axis,BioRep3,SPP1,exclusion,GAPDH,18.31,26.463,8.153,-0.769,1.704,0.769
+tumor_qPCR,A549,G3,IFN + CXCL10 blockade,loss of responder axis,BioRep3,TGFB1,exclusion,GAPDH,18.31,27.022,8.712,-0.615,1.532,0.615
+tumor_qPCR,A549,G3,IFN + CXCL10 blockade,loss of responder axis,BioRep3,CA9,exclusion,GAPDH,18.31,28.244,9.934,-0.013,1.009,0.013
+tumor_qPCR,A549,G3,IFN + CXCL10 blockade,loss of responder axis,BioRep3,VEGFA,exclusion,GAPDH,18.31,25.23,6.92,-0.771,1.707,0.771
+tumor_qPCR,A549,G3,IFN + CXCL10 blockade,loss of responder axis,BioRep4,CXCL10,responder,GAPDH,18.452,28.993,10.541,-1.191,2.283,1.191
+tumor_qPCR,A549,G3,IFN + CXCL10 blockade,loss of responder axis,BioRep4,CXCL9,responder,GAPDH,18.452,26.022,7.57,-4.376,20.767,4.376
+tumor_qPCR,A549,G3,IFN + CXCL10 blockade,loss of responder axis,BioRep4,CXCL11,responder,GAPDH,18.452,28.044,9.592,-2.717,6.575,2.717
+tumor_qPCR,A549,G3,IFN + CXCL10 blockade,loss of responder axis,BioRep4,HLA-A,responder,GAPDH,18.452,23.441,4.989,-1.233,2.35,1.233
+tumor_qPCR,A549,G3,IFN + CXCL10 blockade,loss of responder axis,BioRep4,B2M,responder,GAPDH,18.452,22.867,4.415,-1.015,2.021,1.015
+tumor_qPCR,A549,G3,IFN + CXCL10 blockade,loss of responder axis,BioRep4,STAT1,responder,GAPDH,18.452,25.105,6.653,-1.13,2.189,1.13
+tumor_qPCR,A549,G3,IFN + CXCL10 blockade,loss of responder axis,BioRep4,IFIT1,responder,GAPDH,18.452,25.299,6.847,-2.794,6.936,2.794
+tumor_qPCR,A549,G3,IFN + CXCL10 blockade,loss of responder axis,BioRep4,CD274,checkpoint,GAPDH,18.452,26.724,8.272,-2.399,5.274,2.399
+tumor_qPCR,A549,G3,IFN + CXCL10 blockade,loss of responder axis,BioRep4,SPP1,exclusion,GAPDH,18.452,27.34,8.888,-0.034,1.024,0.034
+tumor_qPCR,A549,G3,IFN + CXCL10 blockade,loss of responder axis,BioRep4,TGFB1,exclusion,GAPDH,18.452,27.758,9.306,-0.021,1.015,0.021
+tumor_qPCR,A549,G3,IFN + CXCL10 blockade,loss of responder axis,BioRep4,CA9,exclusion,GAPDH,18.452,28.561,10.109,0.162,0.893,-0.163
+tumor_qPCR,A549,G3,IFN + CXCL10 blockade,loss of responder axis,BioRep4,VEGFA,exclusion,GAPDH,18.452,26.603,8.151,0.46,0.727,-0.46
+tumor_qPCR,A549,G4,IFN + exclusion cocktail,exclusion-like / scTIME-AI-low,BioRep1,CXCL10,responder,GAPDH,18.545,28.306,9.761,-1.971,3.92,1.971
+tumor_qPCR,A549,G4,IFN + exclusion cocktail,exclusion-like / scTIME-AI-low,BioRep1,CXCL9,responder,GAPDH,18.545,28.465,9.92,-2.026,4.073,2.026
+tumor_qPCR,A549,G4,IFN + exclusion cocktail,exclusion-like / scTIME-AI-low,BioRep1,CXCL11,responder,GAPDH,18.545,28.863,10.318,-1.991,3.975,1.991
+tumor_qPCR,A549,G4,IFN + exclusion cocktail,exclusion-like / scTIME-AI-low,BioRep1,HLA-A,responder,GAPDH,18.545,24.288,5.743,-0.479,1.394,0.479
+tumor_qPCR,A549,G4,IFN + exclusion cocktail,exclusion-like / scTIME-AI-low,BioRep1,B2M,responder,GAPDH,18.545,23.133,4.588,-0.842,1.793,0.842
+tumor_qPCR,A549,G4,IFN + exclusion cocktail,exclusion-like / scTIME-AI-low,BioRep1,STAT1,responder,GAPDH,18.545,25.662,7.117,-0.666,1.587,0.666
+tumor_qPCR,A549,G4,IFN + exclusion cocktail,exclusion-like / scTIME-AI-low,BioRep1,IFIT1,responder,GAPDH,18.545,27.385,8.84,-0.801,1.742,0.801
+tumor_qPCR,A549,G4,IFN + exclusion cocktail,exclusion-like / scTIME-AI-low,BioRep1,CD274,checkpoint,GAPDH,18.545,27.219,8.674,-1.997,3.992,1.997
+tumor_qPCR,A549,G4,IFN + exclusion cocktail,exclusion-like / scTIME-AI-low,BioRep1,SPP1,exclusion,GAPDH,18.545,25.036,6.491,-2.431,5.393,2.431
+tumor_qPCR,A549,G4,IFN + exclusion cocktail,exclusion-like / scTIME-AI-low,BioRep1,TGFB1,exclusion,GAPDH,18.545,25.229,6.684,-2.643,6.247,2.643
+tumor_qPCR,A549,G4,IFN + exclusion cocktail,exclusion-like / scTIME-AI-low,BioRep1,CA9,exclusion,GAPDH,18.545,25.995,7.45,-2.496,5.643,2.496
+tumor_qPCR,A549,G4,IFN + exclusion cocktail,exclusion-like / scTIME-AI-low,BioRep1,VEGFA,exclusion,GAPDH,18.545,24.702,6.157,-1.534,2.896,1.534
+tumor_qPCR,A549,G4,IFN + exclusion cocktail,exclusion-like / scTIME-AI-low,BioRep2,CXCL10,responder,GAPDH,18.303,27.433,9.13,-2.602,6.071,2.602
+tumor_qPCR,A549,G4,IFN + exclusion cocktail,exclusion-like / scTIME-AI-low,BioRep2,CXCL9,responder,GAPDH,18.303,27.46,9.157,-2.789,6.913,2.789
+tumor_qPCR,A549,G4,IFN + exclusion cocktail,exclusion-like / scTIME-AI-low,BioRep2,CXCL11,responder,GAPDH,18.303,28.661,10.358,-1.951,3.866,1.951
+tumor_qPCR,A549,G4,IFN + exclusion cocktail,exclusion-like / scTIME-AI-low,BioRep2,HLA-A,responder,GAPDH,18.303,23.797,5.494,-0.728,1.656,0.728
+tumor_qPCR,A549,G4,IFN + exclusion cocktail,exclusion-like / scTIME-AI-low,BioRep2,B2M,responder,GAPDH,18.303,22.872,4.569,-0.861,1.817,0.862
+tumor_qPCR,A549,G4,IFN + exclusion cocktail,exclusion-like / scTIME-AI-low,BioRep2,STAT1,responder,GAPDH,18.303,24.443,6.14,-1.643,3.123,1.643
+tumor_qPCR,A549,G4,IFN + exclusion cocktail,exclusion-like / scTIME-AI-low,BioRep2,IFIT1,responder,GAPDH,18.303,26.102,7.799,-1.842,3.585,1.842
+tumor_qPCR,A549,G4,IFN + exclusion cocktail,exclusion-like / scTIME-AI-low,BioRep2,CD274,checkpoint,GAPDH,18.303,27.255,8.952,-1.719,3.292,1.719
+tumor_qPCR,A549,G4,IFN + exclusion cocktail,exclusion-like / scTIME-AI-low,BioRep2,SPP1,exclusion,GAPDH,18.303,24.164,5.861,-3.061,8.346,3.061
+tumor_qPCR,A549,G4,IFN + exclusion cocktail,exclusion-like / scTIME-AI-low,BioRep2,TGFB1,exclusion,GAPDH,18.303,25.446,7.143,-2.184,4.545,2.184
+tumor_qPCR,A549,G4,IFN + exclusion cocktail,exclusion-like / scTIME-AI-low,BioRep2,CA9,exclusion,GAPDH,18.303,25.189,6.886,-3.06,8.343,3.061
+tumor_qPCR,A549,G4,IFN + exclusion cocktail,exclusion-like / scTIME-AI-low,BioRep2,VEGFA,exclusion,GAPDH,18.303,23.812,5.509,-2.182,4.539,2.182
+tumor_qPCR,A549,G4,IFN + exclusion cocktail,exclusion-like / scTIME-AI-low,BioRep3,CXCL10,responder,GAPDH,18.066,26.61,8.544,-3.188,9.113,3.188
+tumor_qPCR,A549,G4,IFN + exclusion cocktail,exclusion-like / scTIME-AI-low,BioRep3,CXCL9,responder,GAPDH,18.066,27.507,9.441,-2.505,5.677,2.505
+tumor_qPCR,A549,G4,IFN + exclusion cocktail,exclusion-like / scTIME-AI-low,BioRep3,CXCL11,responder,GAPDH,18.066,28.634,10.568,-1.741,3.343,1.741
+tumor_qPCR,A549,G4,IFN + exclusion cocktail,exclusion-like / scTIME-AI-low,BioRep3,HLA-A,responder,GAPDH,18.066,23.371,5.305,-0.917,1.888,0.917
+tumor_qPCR,A549,G4,IFN + exclusion cocktail,exclusion-like / scTIME-AI-low,BioRep3,B2M,responder,GAPDH,18.066,22.19,4.124,-1.306,2.473,1.306
+tumor_qPCR,A549,G4,IFN + exclusion cocktail,exclusion-like / scTIME-AI-low,BioRep3,STAT1,responder,GAPDH,18.066,24.049,5.983,-1.8,3.482,1.8
+tumor_qPCR,A549,G4,IFN + exclusion cocktail,exclusion-like / scTIME-AI-low,BioRep3,IFIT1,responder,GAPDH,18.066,26.349,8.283,-1.358,2.563,1.358
+tumor_qPCR,A549,G4,IFN + exclusion cocktail,exclusion-like / scTIME-AI-low,BioRep3,CD274,checkpoint,GAPDH,18.066,26.607,8.541,-2.13,4.377,2.13
+tumor_qPCR,A549,G4,IFN + exclusion cocktail,exclusion-like / scTIME-AI-low,BioRep3,SPP1,exclusion,GAPDH,18.066,23.528,5.462,-3.46,11.004,3.46
+tumor_qPCR,A549,G4,IFN + exclusion cocktail,exclusion-like / scTIME-AI-low,BioRep3,TGFB1,exclusion,GAPDH,18.066,24.793,6.727,-2.6,6.064,2.6
+tumor_qPCR,A549,G4,IFN + exclusion cocktail,exclusion-like / scTIME-AI-low,BioRep3,CA9,exclusion,GAPDH,18.066,24.417,6.351,-3.596,12.088,3.596
+tumor_qPCR,A549,G4,IFN + exclusion cocktail,exclusion-like / scTIME-AI-low,BioRep3,VEGFA,exclusion,GAPDH,18.066,23.759,5.693,-1.998,3.995,1.998
+tumor_qPCR,A549,G4,IFN + exclusion cocktail,exclusion-like / scTIME-AI-low,BioRep4,CXCL10,responder,GAPDH,18.526,27.229,8.703,-3.029,8.162,3.029
+tumor_qPCR,A549,G4,IFN + exclusion cocktail,exclusion-like / scTIME-AI-low,BioRep4,CXCL9,responder,GAPDH,18.526,28.653,10.127,-1.819,3.529,1.819
+tumor_qPCR,A549,G4,IFN + exclusion cocktail,exclusion-like / scTIME-AI-low,BioRep4,CXCL11,responder,GAPDH,18.526,28.732,10.206,-2.103,4.296,2.103
+tumor_qPCR,A549,G4,IFN + exclusion cocktail,exclusion-like / scTIME-AI-low,BioRep4,HLA-A,responder,GAPDH,18.526,23.976,5.45,-0.772,1.707,0.771
+tumor_qPCR,A549,G4,IFN + exclusion cocktail,exclusion-like / scTIME-AI-low,BioRep4,B2M,responder,GAPDH,18.526,23.915,5.389,-0.041,1.029,0.041
+tumor_qPCR,A549,G4,IFN + exclusion cocktail,exclusion-like / scTIME-AI-low,BioRep4,STAT1,responder,GAPDH,18.526,25.555,7.029,-0.754,1.686,0.754
+tumor_qPCR,A549,G4,IFN + exclusion cocktail,exclusion-like / scTIME-AI-low,BioRep4,IFIT1,responder,GAPDH,18.526,27.466,8.94,-0.701,1.626,0.701
+tumor_qPCR,A549,G4,IFN + exclusion cocktail,exclusion-like / scTIME-AI-low,BioRep4,CD274,checkpoint,GAPDH,18.526,27.422,8.896,-1.775,3.422,1.775
+tumor_qPCR,A549,G4,IFN + exclusion cocktail,exclusion-like / scTIME-AI-low,BioRep4,SPP1,exclusion,GAPDH,18.526,25.012,6.486,-2.436,5.411,2.436
+tumor_qPCR,A549,G4,IFN + exclusion cocktail,exclusion-like / scTIME-AI-low,BioRep4,TGFB1,exclusion,GAPDH,18.526,25.386,6.86,-2.467,5.53,2.467
+tumor_qPCR,A549,G4,IFN + exclusion cocktail,exclusion-like / scTIME-AI-low,BioRep4,CA9,exclusion,GAPDH,18.526,25.257,6.731,-3.216,9.289,3.216
+tumor_qPCR,A549,G4,IFN + exclusion cocktail,exclusion-like / scTIME-AI-low,BioRep4,VEGFA,exclusion,GAPDH,18.526,24.874,6.348,-1.343,2.537,1.343
+tumor_qPCR,A549,G5,IFN + exclusion rescue,rescued responder-like state,BioRep1,CXCL10,responder,GAPDH,18.387,26.878,8.491,-3.241,9.454,3.241
+tumor_qPCR,A549,G5,IFN + exclusion rescue,rescued responder-like state,BioRep1,CXCL9,responder,GAPDH,18.387,27.902,9.515,-2.431,5.394,2.431
+tumor_qPCR,A549,G5,IFN + exclusion rescue,rescued responder-like state,BioRep1,CXCL11,responder,GAPDH,18.387,28.537,10.15,-2.159,4.466,2.159
+tumor_qPCR,A549,G5,IFN + exclusion rescue,rescued responder-like state,BioRep1,HLA-A,responder,GAPDH,18.387,24.106,5.719,-0.503,1.417,0.503
+tumor_qPCR,A549,G5,IFN + exclusion rescue,rescued responder-like state,BioRep1,B2M,responder,GAPDH,18.387,23.643,5.256,-0.174,1.128,0.174
+tumor_qPCR,A549,G5,IFN + exclusion rescue,rescued responder-like state,BioRep1,STAT1,responder,GAPDH,18.387,24.639,6.252,-1.531,2.89,1.531
+tumor_qPCR,A549,G5,IFN + exclusion rescue,rescued responder-like state,BioRep1,IFIT1,responder,GAPDH,18.387,26.575,8.188,-1.453,2.738,1.453
+tumor_qPCR,A549,G5,IFN + exclusion rescue,rescued responder-like state,BioRep1,CD274,checkpoint,GAPDH,18.387,27.272,8.885,-1.786,3.449,1.786
+tumor_qPCR,A549,G5,IFN + exclusion rescue,rescued responder-like state,BioRep1,SPP1,exclusion,GAPDH,18.387,26.652,8.265,-0.657,1.577,0.657
+tumor_qPCR,A549,G5,IFN + exclusion rescue,rescued responder-like state,BioRep1,TGFB1,exclusion,GAPDH,18.387,27.304,8.917,-0.41,1.329,0.41
+tumor_qPCR,A549,G5,IFN + exclusion rescue,rescued responder-like state,BioRep1,CA9,exclusion,GAPDH,18.387,27.526,9.139,-0.808,1.75,0.807
+tumor_qPCR,A549,G5,IFN + exclusion rescue,rescued responder-like state,BioRep1,VEGFA,exclusion,GAPDH,18.387,25.328,6.941,-0.75,1.682,0.75
+tumor_qPCR,A549,G5,IFN + exclusion rescue,rescued responder-like state,BioRep2,CXCL10,responder,GAPDH,18.307,26.235,7.928,-3.804,13.967,3.804
+tumor_qPCR,A549,G5,IFN + exclusion rescue,rescued responder-like state,BioRep2,CXCL9,responder,GAPDH,18.307,26.961,8.654,-3.292,9.796,3.292
+tumor_qPCR,A549,G5,IFN + exclusion rescue,rescued responder-like state,BioRep2,CXCL11,responder,GAPDH,18.307,28.378,10.071,-2.238,4.717,2.238
+tumor_qPCR,A549,G5,IFN + exclusion rescue,rescued responder-like state,BioRep2,HLA-A,responder,GAPDH,18.307,23.623,5.316,-0.906,1.874,0.906
+tumor_qPCR,A549,G5,IFN + exclusion rescue,rescued responder-like state,BioRep2,B2M,responder,GAPDH,18.307,23.034,4.727,-0.703,1.628,0.703
+tumor_qPCR,A549,G5,IFN + exclusion rescue,rescued responder-like state,BioRep2,STAT1,responder,GAPDH,18.307,24.828,6.521,-1.262,2.398,1.262
+tumor_qPCR,A549,G5,IFN + exclusion rescue,rescued responder-like state,BioRep2,IFIT1,responder,GAPDH,18.307,25.544,7.237,-2.404,5.293,2.404
+tumor_qPCR,A549,G5,IFN + exclusion rescue,rescued responder-like state,BioRep2,CD274,checkpoint,GAPDH,18.307,26.548,8.241,-2.43,5.389,2.43
+tumor_qPCR,A549,G5,IFN + exclusion rescue,rescued responder-like state,BioRep2,SPP1,exclusion,GAPDH,18.307,25.327,7.02,-1.902,3.737,1.902
+tumor_qPCR,A549,G5,IFN + exclusion rescue,rescued responder-like state,BioRep2,TGFB1,exclusion,GAPDH,18.307,26.472,8.165,-1.162,2.238,1.162
+tumor_qPCR,A549,G5,IFN + exclusion rescue,rescued responder-like state,BioRep2,CA9,exclusion,GAPDH,18.307,26.682,8.375,-1.572,2.972,1.571
+tumor_qPCR,A549,G5,IFN + exclusion rescue,rescued responder-like state,BioRep2,VEGFA,exclusion,GAPDH,18.307,24.811,6.504,-1.187,2.277,1.187
+tumor_qPCR,A549,G5,IFN + exclusion rescue,rescued responder-like state,BioRep3,CXCL10,responder,GAPDH,18.417,25.867,7.45,-4.282,19.454,4.282
+tumor_qPCR,A549,G5,IFN + exclusion rescue,rescued responder-like state,BioRep3,CXCL9,responder,GAPDH,18.417,26.765,8.348,-3.598,12.111,3.598
+tumor_qPCR,A549,G5,IFN + exclusion rescue,rescued responder-like state,BioRep3,CXCL11,responder,GAPDH,18.417,27.932,9.515,-2.794,6.936,2.794
+tumor_qPCR,A549,G5,IFN + exclusion rescue,rescued responder-like state,BioRep3,HLA-A,responder,GAPDH,18.417,23.213,4.796,-1.426,2.687,1.426
+tumor_qPCR,A549,G5,IFN + exclusion rescue,rescued responder-like state,BioRep3,B2M,responder,GAPDH,18.417,22.155,3.738,-1.692,3.232,1.692
+tumor_qPCR,A549,G5,IFN + exclusion rescue,rescued responder-like state,BioRep3,STAT1,responder,GAPDH,18.417,24.011,5.594,-2.189,4.56,2.189
+tumor_qPCR,A549,G5,IFN + exclusion rescue,rescued responder-like state,BioRep3,IFIT1,responder,GAPDH,18.417,26.069,7.652,-1.989,3.97,1.989
+tumor_qPCR,A549,G5,IFN + exclusion rescue,rescued responder-like state,BioRep3,CD274,checkpoint,GAPDH,18.417,25.891,7.474,-3.197,9.17,3.197
+tumor_qPCR,A549,G5,IFN + exclusion rescue,rescued responder-like state,BioRep3,SPP1,exclusion,GAPDH,18.417,25.83,7.413,-1.509,2.846,1.509
+tumor_qPCR,A549,G5,IFN + exclusion rescue,rescued responder-like state,BioRep3,TGFB1,exclusion,GAPDH,18.417,26.147,7.73,-1.597,3.026,1.597
+tumor_qPCR,A549,G5,IFN + exclusion rescue,rescued responder-like state,BioRep3,CA9,exclusion,GAPDH,18.417,26.688,8.271,-1.675,3.194,1.675
+tumor_qPCR,A549,G5,IFN + exclusion rescue,rescued responder-like state,BioRep3,VEGFA,exclusion,GAPDH,18.417,25.197,6.78,-0.911,1.881,0.911
+tumor_qPCR,A549,G5,IFN + exclusion rescue,rescued responder-like state,BioRep4,CXCL10,responder,GAPDH,18.606,27.629,9.023,-2.709,6.539,2.709
+tumor_qPCR,A549,G5,IFN + exclusion rescue,rescued responder-like state,BioRep4,CXCL9,responder,GAPDH,18.606,27.42,8.814,-3.132,8.768,3.132
+tumor_qPCR,A549,G5,IFN + exclusion rescue,rescued responder-like state,BioRep4,CXCL11,responder,GAPDH,18.606,28.151,9.545,-2.764,6.793,2.764
+tumor_qPCR,A549,G5,IFN + exclusion rescue,rescued responder-like state,BioRep4,HLA-A,responder,GAPDH,18.606,23.904,5.298,-0.924,1.897,0.924
+tumor_qPCR,A549,G5,IFN + exclusion rescue,rescued responder-like state,BioRep4,B2M,responder,GAPDH,18.606,23.647,5.041,-0.389,1.31,0.39
+tumor_qPCR,A549,G5,IFN + exclusion rescue,rescued responder-like state,BioRep4,STAT1,responder,GAPDH,18.606,25.028,6.422,-1.361,2.569,1.361
+tumor_qPCR,A549,G5,IFN + exclusion rescue,rescued responder-like state,BioRep4,IFIT1,responder,GAPDH,18.606,25.821,7.215,-2.426,5.374,2.426
+tumor_qPCR,A549,G5,IFN + exclusion rescue,rescued responder-like state,BioRep4,CD274,checkpoint,GAPDH,18.606,27.599,8.993,-1.678,3.2,1.678
+tumor_qPCR,A549,G5,IFN + exclusion rescue,rescued responder-like state,BioRep4,SPP1,exclusion,GAPDH,18.606,26.02,7.414,-1.508,2.844,1.508
+tumor_qPCR,A549,G5,IFN + exclusion rescue,rescued responder-like state,BioRep4,TGFB1,exclusion,GAPDH,18.606,27.247,8.641,-0.686,1.609,0.686
+tumor_qPCR,A549,G5,IFN + exclusion rescue,rescued responder-like state,BioRep4,CA9,exclusion,GAPDH,18.606,27.424,8.818,-1.129,2.186,1.128
+tumor_qPCR,A549,G5,IFN + exclusion rescue,rescued responder-like state,BioRep4,VEGFA,exclusion,GAPDH,18.606,25.392,6.786,-0.905,1.873,0.905

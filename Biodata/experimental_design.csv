@@ -1,0 +1,6 @@
+﻿condition,condition_name,treatment_design,model_interpretation,key_expected_result
+G1,Control,A549 basal tumor-conditioned medium,baseline,baseline scTIME-AI-like state
+G2,IFN activation,IFN-gamma-stimulated A549; optional TNF-alpha co-stimulation,responder-like / scTIME-AI-high,increased IFN/CXCL10-CXCR3 responder-like features
+G3,IFN + CXCL10 blockade,G2 plus CXCL10 knockdown/blockade; as reduced bioavailable CXCL10,loss of responder axis,reduced CXCL10-dependent migration/activation despite IFN context
+G4,IFN + exclusion cocktail,"G2 plus recombinant SPP1, TGF-beta1, and hypoxia mimic/low oxygen",exclusion-like / scTIME-AI-low,increased SPP1/TGF-beta/hypoxia exclusion features and reduced function
+G5,IFN + exclusion rescue,"G4 plus TGF-beta receptor inhibitor, anti-SPP1, and CXCL10 add-back",rescued responder-like state,partial rescue of responder-like score and CD8+ T-cell readouts

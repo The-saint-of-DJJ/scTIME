@@ -1,0 +1,101 @@
+﻿assay,condition,condition_name,model_interpretation,biological_replicate,gene,relative_expression_vs_G1,log2_relative_expression
+CD8_T_cell_qPCR,G1,Control,baseline,BioRep1,GZMB,1.0,0.0
+CD8_T_cell_qPCR,G1,Control,baseline,BioRep1,PRF1,1.0,0.0
+CD8_T_cell_qPCR,G1,Control,baseline,BioRep1,IFNG,0.933,-0.1
+CD8_T_cell_qPCR,G1,Control,baseline,BioRep1,CXCR3,1.035,0.05
+CD8_T_cell_qPCR,G1,Control,baseline,BioRep1,CD69,1.0,0.0
+CD8_T_cell_qPCR,G1,Control,baseline,BioRep2,GZMB,1.189,0.25
+CD8_T_cell_qPCR,G1,Control,baseline,BioRep2,PRF1,1.149,0.2
+CD8_T_cell_qPCR,G1,Control,baseline,BioRep2,IFNG,1.275,0.35
+CD8_T_cell_qPCR,G1,Control,baseline,BioRep2,CXCR3,1.149,0.2
+CD8_T_cell_qPCR,G1,Control,baseline,BioRep2,CD69,1.189,0.25
+CD8_T_cell_qPCR,G1,Control,baseline,BioRep3,GZMB,0.901,-0.15
+CD8_T_cell_qPCR,G1,Control,baseline,BioRep3,PRF1,0.933,-0.1
+CD8_T_cell_qPCR,G1,Control,baseline,BioRep3,IFNG,1.035,0.05
+CD8_T_cell_qPCR,G1,Control,baseline,BioRep3,CXCR3,0.901,-0.15
+CD8_T_cell_qPCR,G1,Control,baseline,BioRep3,CD69,0.966,-0.05
+CD8_T_cell_qPCR,G1,Control,baseline,BioRep4,GZMB,1.072,0.1
+CD8_T_cell_qPCR,G1,Control,baseline,BioRep4,PRF1,1.035,0.05
+CD8_T_cell_qPCR,G1,Control,baseline,BioRep4,IFNG,0.871,-0.2
+CD8_T_cell_qPCR,G1,Control,baseline,BioRep4,CXCR3,1.0,0.0
+CD8_T_cell_qPCR,G1,Control,baseline,BioRep4,CD69,1.035,0.05
+CD8_T_cell_qPCR,G2,IFN activation,responder-like / scTIME-AI-high,BioRep1,GZMB,3.364,1.75
+CD8_T_cell_qPCR,G2,IFN activation,responder-like / scTIME-AI-high,BioRep1,PRF1,2.219,1.15
+CD8_T_cell_qPCR,G2,IFN activation,responder-like / scTIME-AI-high,BioRep1,IFNG,3.864,1.95
+CD8_T_cell_qPCR,G2,IFN activation,responder-like / scTIME-AI-high,BioRep1,CXCR3,1.866,0.9
+CD8_T_cell_qPCR,G2,IFN activation,responder-like / scTIME-AI-high,BioRep1,CD69,2.549,1.35
+CD8_T_cell_qPCR,G2,IFN activation,responder-like / scTIME-AI-high,BioRep2,GZMB,5.098,2.35
+CD8_T_cell_qPCR,G2,IFN activation,responder-like / scTIME-AI-high,BioRep2,PRF1,3.249,1.7
+CD8_T_cell_qPCR,G2,IFN activation,responder-like / scTIME-AI-high,BioRep2,IFNG,5.856,2.55
+CD8_T_cell_qPCR,G2,IFN activation,responder-like / scTIME-AI-high,BioRep2,CXCR3,2.462,1.3
+CD8_T_cell_qPCR,G2,IFN activation,responder-like / scTIME-AI-high,BioRep2,CD69,3.864,1.95
+CD8_T_cell_qPCR,G2,IFN activation,responder-like / scTIME-AI-high,BioRep3,GZMB,4.141,2.05
+CD8_T_cell_qPCR,G2,IFN activation,responder-like / scTIME-AI-high,BioRep3,PRF1,2.732,1.45
+CD8_T_cell_qPCR,G2,IFN activation,responder-like / scTIME-AI-high,BioRep3,IFNG,4.595,2.2
+CD8_T_cell_qPCR,G2,IFN activation,responder-like / scTIME-AI-high,BioRep3,CXCR3,2.144,1.1
+CD8_T_cell_qPCR,G2,IFN activation,responder-like / scTIME-AI-high,BioRep3,CD69,3.138,1.65
+CD8_T_cell_qPCR,G2,IFN activation,responder-like / scTIME-AI-high,BioRep4,GZMB,2.297,1.2
+CD8_T_cell_qPCR,G2,IFN activation,responder-like / scTIME-AI-high,BioRep4,PRF1,1.803,0.85
+CD8_T_cell_qPCR,G2,IFN activation,responder-like / scTIME-AI-high,BioRep4,IFNG,2.639,1.4
+CD8_T_cell_qPCR,G2,IFN activation,responder-like / scTIME-AI-high,BioRep4,CXCR3,1.569,0.65
+CD8_T_cell_qPCR,G2,IFN activation,responder-like / scTIME-AI-high,BioRep4,CD69,2.0,1.0
+CD8_T_cell_qPCR,G3,IFN + CXCL10 blockade,loss of responder axis,BioRep1,GZMB,1.625,0.7
+CD8_T_cell_qPCR,G3,IFN + CXCL10 blockade,loss of responder axis,BioRep1,PRF1,1.366,0.45
+CD8_T_cell_qPCR,G3,IFN + CXCL10 blockade,loss of responder axis,BioRep1,IFNG,1.803,0.85
+CD8_T_cell_qPCR,G3,IFN + CXCL10 blockade,loss of responder axis,BioRep1,CXCR3,1.231,0.3
+CD8_T_cell_qPCR,G3,IFN + CXCL10 blockade,loss of responder axis,BioRep1,CD69,1.569,0.65
+CD8_T_cell_qPCR,G3,IFN + CXCL10 blockade,loss of responder axis,BioRep2,GZMB,2.462,1.3
+CD8_T_cell_qPCR,G3,IFN + CXCL10 blockade,loss of responder axis,BioRep2,PRF1,1.866,0.9
+CD8_T_cell_qPCR,G3,IFN + CXCL10 blockade,loss of responder axis,BioRep2,IFNG,2.732,1.45
+CD8_T_cell_qPCR,G3,IFN + CXCL10 blockade,loss of responder axis,BioRep2,CXCR3,1.682,0.75
+CD8_T_cell_qPCR,G3,IFN + CXCL10 blockade,loss of responder axis,BioRep2,CD69,2.144,1.1
+CD8_T_cell_qPCR,G3,IFN + CXCL10 blockade,loss of responder axis,BioRep3,GZMB,2.0,1.0
+CD8_T_cell_qPCR,G3,IFN + CXCL10 blockade,loss of responder axis,BioRep3,PRF1,1.625,0.7
+CD8_T_cell_qPCR,G3,IFN + CXCL10 blockade,loss of responder axis,BioRep3,IFNG,2.219,1.15
+CD8_T_cell_qPCR,G3,IFN + CXCL10 blockade,loss of responder axis,BioRep3,CXCR3,1.414,0.5
+CD8_T_cell_qPCR,G3,IFN + CXCL10 blockade,loss of responder axis,BioRep3,CD69,1.803,0.85
+CD8_T_cell_qPCR,G3,IFN + CXCL10 blockade,loss of responder axis,BioRep4,GZMB,2.828,1.5
+CD8_T_cell_qPCR,G3,IFN + CXCL10 blockade,loss of responder axis,BioRep4,PRF1,2.144,1.1
+CD8_T_cell_qPCR,G3,IFN + CXCL10 blockade,loss of responder axis,BioRep4,IFNG,3.249,1.7
+CD8_T_cell_qPCR,G3,IFN + CXCL10 blockade,loss of responder axis,BioRep4,CXCR3,1.803,0.85
+CD8_T_cell_qPCR,G3,IFN + CXCL10 blockade,loss of responder axis,BioRep4,CD69,2.462,1.3
+CD8_T_cell_qPCR,G4,IFN + exclusion cocktail,exclusion-like / scTIME-AI-low,BioRep1,GZMB,1.32,0.4
+CD8_T_cell_qPCR,G4,IFN + exclusion cocktail,exclusion-like / scTIME-AI-low,BioRep1,PRF1,1.231,0.3
+CD8_T_cell_qPCR,G4,IFN + exclusion cocktail,exclusion-like / scTIME-AI-low,BioRep1,IFNG,1.464,0.55
+CD8_T_cell_qPCR,G4,IFN + exclusion cocktail,exclusion-like / scTIME-AI-low,BioRep1,CXCR3,0.841,-0.25
+CD8_T_cell_qPCR,G4,IFN + exclusion cocktail,exclusion-like / scTIME-AI-low,BioRep1,CD69,1.366,0.45
+CD8_T_cell_qPCR,G4,IFN + exclusion cocktail,exclusion-like / scTIME-AI-low,BioRep2,GZMB,2.297,1.2
+CD8_T_cell_qPCR,G4,IFN + exclusion cocktail,exclusion-like / scTIME-AI-low,BioRep2,PRF1,1.803,0.85
+CD8_T_cell_qPCR,G4,IFN + exclusion cocktail,exclusion-like / scTIME-AI-low,BioRep2,IFNG,2.462,1.3
+CD8_T_cell_qPCR,G4,IFN + exclusion cocktail,exclusion-like / scTIME-AI-low,BioRep2,CXCR3,1.275,0.35
+CD8_T_cell_qPCR,G4,IFN + exclusion cocktail,exclusion-like / scTIME-AI-low,BioRep2,CD69,2.0,1.0
+CD8_T_cell_qPCR,G4,IFN + exclusion cocktail,exclusion-like / scTIME-AI-low,BioRep3,GZMB,1.625,0.7
+CD8_T_cell_qPCR,G4,IFN + exclusion cocktail,exclusion-like / scTIME-AI-low,BioRep3,PRF1,1.464,0.55
+CD8_T_cell_qPCR,G4,IFN + exclusion cocktail,exclusion-like / scTIME-AI-low,BioRep3,IFNG,1.803,0.85
+CD8_T_cell_qPCR,G4,IFN + exclusion cocktail,exclusion-like / scTIME-AI-low,BioRep3,CXCR3,1.035,0.05
+CD8_T_cell_qPCR,G4,IFN + exclusion cocktail,exclusion-like / scTIME-AI-low,BioRep3,CD69,1.569,0.65
+CD8_T_cell_qPCR,G4,IFN + exclusion cocktail,exclusion-like / scTIME-AI-low,BioRep4,GZMB,2.639,1.4
+CD8_T_cell_qPCR,G4,IFN + exclusion cocktail,exclusion-like / scTIME-AI-low,BioRep4,PRF1,1.932,0.95
+CD8_T_cell_qPCR,G4,IFN + exclusion cocktail,exclusion-like / scTIME-AI-low,BioRep4,IFNG,2.928,1.55
+CD8_T_cell_qPCR,G4,IFN + exclusion cocktail,exclusion-like / scTIME-AI-low,BioRep4,CXCR3,1.366,0.45
+CD8_T_cell_qPCR,G4,IFN + exclusion cocktail,exclusion-like / scTIME-AI-low,BioRep4,CD69,2.219,1.15
+CD8_T_cell_qPCR,G5,IFN + exclusion rescue,rescued responder-like state,BioRep1,GZMB,2.297,1.2
+CD8_T_cell_qPCR,G5,IFN + exclusion rescue,rescued responder-like state,BioRep1,PRF1,1.803,0.85
+CD8_T_cell_qPCR,G5,IFN + exclusion rescue,rescued responder-like state,BioRep1,IFNG,2.549,1.35
+CD8_T_cell_qPCR,G5,IFN + exclusion rescue,rescued responder-like state,BioRep1,CXCR3,1.366,0.45
+CD8_T_cell_qPCR,G5,IFN + exclusion rescue,rescued responder-like state,BioRep1,CD69,2.0,1.0
+CD8_T_cell_qPCR,G5,IFN + exclusion rescue,rescued responder-like state,BioRep2,GZMB,3.732,1.9
+CD8_T_cell_qPCR,G5,IFN + exclusion rescue,rescued responder-like state,BioRep2,PRF1,2.549,1.35
+CD8_T_cell_qPCR,G5,IFN + exclusion rescue,rescued responder-like state,BioRep2,IFNG,4.0,2.0
+CD8_T_cell_qPCR,G5,IFN + exclusion rescue,rescued responder-like state,BioRep2,CXCR3,1.932,0.95
+CD8_T_cell_qPCR,G5,IFN + exclusion rescue,rescued responder-like state,BioRep2,CD69,2.928,1.55
+CD8_T_cell_qPCR,G5,IFN + exclusion rescue,rescued responder-like state,BioRep3,GZMB,2.828,1.5
+CD8_T_cell_qPCR,G5,IFN + exclusion rescue,rescued responder-like state,BioRep3,PRF1,2.144,1.1
+CD8_T_cell_qPCR,G5,IFN + exclusion rescue,rescued responder-like state,BioRep3,IFNG,3.138,1.65
+CD8_T_cell_qPCR,G5,IFN + exclusion rescue,rescued responder-like state,BioRep3,CXCR3,1.625,0.7
+CD8_T_cell_qPCR,G5,IFN + exclusion rescue,rescued responder-like state,BioRep3,CD69,2.462,1.3
+CD8_T_cell_qPCR,G5,IFN + exclusion rescue,rescued responder-like state,BioRep4,GZMB,4.287,2.1
+CD8_T_cell_qPCR,G5,IFN + exclusion rescue,rescued responder-like state,BioRep4,PRF1,2.928,1.55
+CD8_T_cell_qPCR,G5,IFN + exclusion rescue,rescued responder-like state,BioRep4,IFNG,4.757,2.25
+CD8_T_cell_qPCR,G5,IFN + exclusion rescue,rescued responder-like state,BioRep4,CXCR3,2.144,1.1
+CD8_T_cell_qPCR,G5,IFN + exclusion rescue,rescued responder-like state,BioRep4,CD69,3.364,1.75
