@@ -24,22 +24,6 @@ powershell -ExecutionPolicy Bypass -File "scripts\download_CGZ_public_data.ps1" 
 
 Use the command without `-SkipHuge` to download the largest GSE243013 matrix as well.
 
-## Local Input Data
-
-Small cell-validation tables are included in `Biodata/` because they are required to regenerate Figure 8:
-
-- `tumor_qPCR_long.csv`
-- `Tcell_qPCR_long.csv`
-- `secretome_viability_long.csv`
-- `CD8_migration_long.csv`
-- `Tcell_activation_killing_long.csv`
-- `score_by_replicate.csv`
-- `summary_indices_by_condition.csv`
-- `statistics.csv`
-- `experimental_design.csv`
-- `reference_mapping.csv`
-- `replicate_matrix.csv`
-
 ## Generated Data
 
 The workflow writes generated tables, figures and models under `results/`. These outputs are excluded from version control and can be regenerated from public input data plus `Biodata/`.
