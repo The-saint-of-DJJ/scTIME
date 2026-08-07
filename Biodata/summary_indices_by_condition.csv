@@ -1,6 +1,0 @@
-﻿condition,condition_name,model_interpretation,CXCL10_secretome_index_mean,CXCL10_secretome_index_std,IFN_antigen_qPCR_index_mean,IFN_antigen_qPCR_index_std,exclusion_qPCR_secretome_index_mean,exclusion_qPCR_secretome_index_std,CD8_migration_index_mean,CD8_migration_index_std,T_cell_activation_index_mean,T_cell_activation_index_std,tumor_killing_index_mean,tumor_killing_index_std,experimental_scTIME_AI_like_score_mean,experimental_scTIME_AI_like_score_std
-G1,Control,baseline,-1.8197,0.2914,-1.582,0.1786,-0.7746,0.0784,-1.216,0.255,-1.5363,0.5249,-1.2149,0.3343,-0.8681,0.0618
-G2,IFN activation,responder-like / scTIME-AI-high,0.8525,0.351,0.8916,0.3355,-0.7547,0.1802,1.0634,0.9835,0.7763,0.6863,0.9665,0.9868,1.7081,0.1961
-G3,IFN + CXCL10 blockade,loss of responder axis,0.0516,0.4228,0.5026,0.2388,-0.5721,0.2234,-0.1681,0.6122,0.1475,0.5792,-0.1333,0.603,0.9619,0.255
-G4,IFN + exclusion cocktail,exclusion-like / scTIME-AI-low,0.2249,0.3496,-0.1317,0.3499,1.6409,0.2991,-0.3467,0.6944,-0.1546,0.7024,-0.4119,0.6241,-1.839,0.1519
-G5,IFN + exclusion rescue,rescued responder-like state,0.6908,0.257,0.3195,0.4497,0.4605,0.3434,0.6674,0.7114,0.7671,0.5162,0.7936,0.7144,0.0371,0.1836

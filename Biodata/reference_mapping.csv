@@ -1,8 +1,0 @@
-﻿biological_claim,supporting_references
-"IFN/RT induction of CXCL10, ICAM1, antigen-presentation and CD274/PD-L1 features","Wang et al., Cancer Immunol Immunother 2023; Cheng et al., Cancer Immunol Immunother 2024"
-CXCL10-CXCR3 supports CD8+ T-cell migration and antitumor function; CXCR3 blockade weakens it,"Wang et al. 2023; Cheng et al. 2024; Gunderson et al., Nat Commun 2020"
-IFN/RT-conditioned lung cancer cells increase CD8+ activation/cytotoxic markers,Wang et al. 2023; Cheng et al. 2024
-CXCL10/11-CXCR3 axis associates with PD-1/PD-L1 blockade sensitivity,"Mitsuhashi et al., Cancer Sci 2021; Cheng et al. 2024; Yabuki et al., Int J Cancer 2025"
-TGF-beta contributes to T-cell exclusion and suppresses CD8+ CXCR3/tumor trafficking,"Mariathasan et al., Nature 2018; Gunderson et al. 2020"
-SPP1+ TAM programs associate with CD8+ T-cell dysfunction; anti-SPP1 can restore activity in vitro,"Almgrami et al., Cancer Immunol Immunother 2025; Bill et al., Science 2023"
-Hypoxia/HIF signaling can dampen IFN-gamma-induced chemokines and PD-L1 blockade response,Yabuki et al. 2025; Bill et al. 2023 as hypoxia/SPP1 polarity context
