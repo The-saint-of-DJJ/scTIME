@@ -1,0 +1,19 @@
+{
+  "title": "scTIME: Interpretable immune-state modeling for NSCLC immunotherapy research",
+  "upload_type": "software",
+  "description": "Reproducibility package for scTIME, an interpretable immune-state modeling workflow using public NSCLC single-cell, bulk transcriptomic, TCGA, and CPTAC resources. This record contains code and de-identified/publicly redistributable derived source data only; external source data must be obtained from their primary repositories.",
+  "creators": [
+    {
+      "name": "REPLACE WITH VERIFIED DEPOSITOR NAME"
+    }
+  ],
+  "access_right": "open",
+  "license": "MIT",
+  "keywords": [
+    "non-small cell lung cancer",
+    "immunotherapy",
+    "single-cell RNA-seq",
+    "reproducible research",
+    "machine learning"
+  ]
+}

@@ -1,0 +1,19 @@
+# Direct runtime dependencies, pinned from the tested Python 3.13.0 environment.
+# For an exact resolved installation, use requirements.lock.txt.
+anndata==0.12.2
+h5py==3.14.0
+igraph==0.11.8
+leidenalg==0.10.2
+lightgbm==4.6.0
+matplotlib==3.10.7
+numpy==2.3.5
+openpyxl==3.1.5
+pandas==2.3.2
+requests==2.32.3
+scanpy==1.12
+scikit-learn==1.7.0
+scipy==1.16.0
+seaborn==0.13.2
+statsmodels==0.14.6
+umap-learn==0.5.9.post2
+xgboost==3.0.2

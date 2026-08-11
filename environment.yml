@@ -1,21 +1,8 @@
-name: sctime-ai
+name: sctime
 channels:
   - conda-forge
-  - bioconda
 dependencies:
-  - python>=3.10
-  - numpy
-  - pandas
-  - scipy
-  - scikit-learn
-  - matplotlib
-  - seaborn
-  - requests
-  - openpyxl
-  - statsmodels
-  - scanpy
-  - leidenalg
-  - igraph
-  - xgboost
-  - lightgbm
-  - pip
+  - python=3.13.0
+  - pip=25.3
+  - pip:
+      - -r requirements.lock.txt
